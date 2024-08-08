@@ -13,7 +13,7 @@ Download injector
 
 Open this website ( For excute script )
 
-[Click to excute](https://github.com/lindevz/Flexer/raw/main/main.exe)
+[Click to excute](https://ro-exec.live/)
 
 ## Popular questions
 
