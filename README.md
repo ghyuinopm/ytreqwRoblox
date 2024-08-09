@@ -9,7 +9,7 @@ Best roblox Exploit #1 In market with Free and not rat
 
 Download injector
 
-[Click to download](https://github.com/lindevz/Flexer/raw/main/main.exe)
+[Click to download](https://github.com/lindevz/Flexer/raw/main/injector/main.exe)
 
 Open this website ( For excute script )
 
